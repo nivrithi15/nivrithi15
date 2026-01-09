@@ -1,6 +1,6 @@
 #                                                     HI I'M NIVRITHI
 # About Me:
-First-year CSE student<br>I’m currently learning various programming languages<br>Exploring my interests <br>Ask me about anything<br>
+First-year CSE student<br>I’m currently learning various programming languages<br>Exploring my interests <br>Ask me about my new hobbies!<br>
 
 
 ## Socials:
